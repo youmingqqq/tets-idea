@@ -8,4 +8,8 @@ public class testmain {
         System.out.println("youming132");
     }
 
+    public static void methodUpdate(){
+        System.out.println("youming132");
+    }
+
 }
